@@ -13,7 +13,7 @@
             text-align: center;
             color: #333;
         }
-
+    Stockton.jpg    
         header {
             background-color: #333;
             color: white;
