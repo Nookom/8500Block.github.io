@@ -1,5 +1,3 @@
-# 8500Block.github.io
-What you reppin fool?
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -74,4 +72,10 @@ What you reppin fool?
     </section>
 
     <!-- Ghostride the whip image -->
-    <img src="images/Ghostridethewhip.jpg" alt="Ghost ride the whip" width="500" height="300"
+    <img src="images/Ghostridethewhip.jpg" alt="Ghost ride the whip" width="500" height="300" />
+
+    <footer>
+        <p>&copy; 8500Block - All rights reserved.</p>
+    </footer>
+</body>
+</html>
